@@ -83,3 +83,10 @@ defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); // invalid user 
 defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
+
+
+
+define('SHOPIFY_SHOP_URL', 'mydadaji.myshopify.com');
+define('SHOPIFY_ACCESS_TOKEN', 'd2c722f4508b93f36d2a0e8afc0d330f');
+define('SHOPIFY_API_KEY', '0731083e70d6fbb07dfd55d4cc808a28');
+define('SHOPIFY_SECRET', '360f58450705dee99ff30b93fb3ff922');
