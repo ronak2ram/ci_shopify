@@ -86,7 +86,10 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 
 
-define('SHOPIFY_SHOP_URL', 'mydadaji.myshopify.com');
-define('SHOPIFY_ACCESS_TOKEN', 'd2c722f4508b93f36d2a0e8afc0d330f');
-define('SHOPIFY_API_KEY', '0731083e70d6fbb07dfd55d4cc808a28');
-define('SHOPIFY_SECRET', '360f58450705dee99ff30b93fb3ff922');
+define('SHOPIFY_SHOP_URL', 'mydadi.myshopify.com');
+define('SHOPIFY_ACCESS_TOKEN', '15b883d1abb3089607db32bb367eb1d1');
+define('SHOPIFY_API_KEY', '3616973b0d98c1e0cbcd8c77b80d3b7c');
+define('SHOPIFY_SECRET', '08b81d78963f4bf4c77c489d218d40fc');
+
+
+define('SHOPIFY_ADMIN_APP_SECRET', 'b48ec6bc17d6c4d3b0bfc290a89c3e22483a5a4b6e5bc92e33b8de4407f9f79e');
